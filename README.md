@@ -15,6 +15,7 @@ pip3 package
 ## Download Pretrain Model
 
 ```
+mkdir model
 cd model
 wget https://download.pytorch.org/models/vgg16-397923af.pth
 ```
