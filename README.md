@@ -30,7 +30,7 @@ python3 script/convert_vgg.py
 From here [VOC12](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) download train data and unzip to data folder like:
 
 ```
-pytorch-ssd/data/VOC2012_trainval_train_images/
+$REPO_PATH/data/VOC2012_trainval_train_images/
 ```
 ## Train
 recommand use pretrain model, if not, the loss desent slowly
